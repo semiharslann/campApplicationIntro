@@ -3,19 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "campApplicationIntro", "campApplicationIntro\campApplicationIntro.csproj", "{8D019E8A-D931-49C4-9EBC-1590BC8D7E6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "campApplicationIntro", "campApplicationIntro\campApplicationIntro.csproj", "{8D019E8A-D931-49C4-9EBC-1590BC8D7E6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testApplication001", "testApplication001\testApplication001.csproj", "{7B91E272-53CA-47DD-AFB5-D261E3157C60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testApplication001", "testApplication001\testApplication001.csproj", "{7B91E272-53CA-47DD-AFB5-D261E3157C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testApplication002", "testApplication002\testApplication002.csproj", "{EF3E92D5-F50A-44EC-A8FB-34EB415A245E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testApplication002", "testApplication002\testApplication002.csproj", "{EF3E92D5-F50A-44EC-A8FB-34EB415A245E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{1F3F1084-D40E-476C-B8D1-686A5573B048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{1F3F1084-D40E-476C-B8D1-686A5573B048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{4583303C-0014-4ED6-A1C0-E279CA6FD512}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{4583303C-0014-4ED6-A1C0-E279CA6FD512}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{5BC0EC38-F169-4A2B-B1E1-448FD2F905E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{5BC0EC38-F169-4A2B-B1E1-448FD2F905E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{EA7B0328-7BC0-49F6-BDBB-B4D00B9E2E67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{EA7B0328-7BC0-49F6-BDBB-B4D00B9E2E67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{12520444-1C67-456C-8164-9358EDCBEF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{1C21763C-B6E4-4C7C-873D-F964E514E493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{CBE59DE1-0ADB-444F-A211-A57A99690ABE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{EA7B0328-7BC0-49F6-BDBB-B4D00B9E2E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA7B0328-7BC0-49F6-BDBB-B4D00B9E2E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA7B0328-7BC0-49F6-BDBB-B4D00B9E2E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12520444-1C67-456C-8164-9358EDCBEF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12520444-1C67-456C-8164-9358EDCBEF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12520444-1C67-456C-8164-9358EDCBEF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12520444-1C67-456C-8164-9358EDCBEF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C21763C-B6E4-4C7C-873D-F964E514E493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C21763C-B6E4-4C7C-873D-F964E514E493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C21763C-B6E4-4C7C-873D-F964E514E493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C21763C-B6E4-4C7C-873D-F964E514E493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE59DE1-0ADB-444F-A211-A57A99690ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE59DE1-0ADB-444F-A211-A57A99690ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE59DE1-0ADB-444F-A211-A57A99690ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE59DE1-0ADB-444F-A211-A57A99690ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
